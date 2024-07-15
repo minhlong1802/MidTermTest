@@ -1,4 +1,8 @@
-# My Universal React Project
+Nguyễn Minh Long 22IT2 BIT220100
+
+
+![image](https://github.com/user-attachments/assets/c24f85b7-800f-467c-aa54-8ff30faf0832)
+![image](https://github.com/user-attachments/assets/b380ca92-9ba4-45fd-8372-faddb3aae2e0)
 
 <p>
   <!-- iOS -->
